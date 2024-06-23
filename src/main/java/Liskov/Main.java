@@ -11,7 +11,6 @@ public class Main {
         padre = new Hija2();
         System.out.println(padre.getName());
 
-
         Impuestos ventasAbstractas = new VentasConImpuesto(1,2,9);
         ventasAbstractas.generateSale();
         ventasAbstractas.generateTaxes();
