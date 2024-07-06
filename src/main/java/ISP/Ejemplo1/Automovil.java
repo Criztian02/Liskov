@@ -1,4 +1,4 @@
-package ISP;
+package ISP.Ejemplo1;
 
 public class Automovil implements IVehiculo{
     @Override

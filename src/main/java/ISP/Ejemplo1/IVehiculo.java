@@ -1,4 +1,4 @@
-package ISP;
+package ISP.Ejemplo1;
 
 public interface IVehiculo {
     void encender();

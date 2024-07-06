@@ -1,4 +1,4 @@
-package ISP;
+package ISP.Ejemplo1;
 
 public interface IVehiculoAcuatico {
     void flotar();

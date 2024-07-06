@@ -1,6 +1,6 @@
-package ISP;
+package ISP.Ejemplo1;
 
-public class Barco implements IVehiculo, IVehiculoAcuatico{
+public class Avion implements IVehiculo, IVehiculoAereo{
     @Override
     public void encender() {
 
@@ -17,12 +17,12 @@ public class Barco implements IVehiculo, IVehiculoAcuatico{
     }
 
     @Override
-    public void flotar() {
+    public void despegar() {
 
     }
 
     @Override
-    public void navegar() {
+    public void volar() {
 
     }
 }
