@@ -5,4 +5,9 @@ public class Hija2 extends Padre {
     public String getName() {
         return "yo soy Hija2";
     }
+
+    @Override
+    public String getPresentation() {
+        return "Hola yo formmo parte de Accenture";
+    }
 }
